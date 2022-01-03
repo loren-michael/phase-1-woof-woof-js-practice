@@ -9,7 +9,7 @@
 //     //✅ image
 //     //✅ good dog! button that toggles if the dog is good or not
 //         //✅ this is a patch to the database
-//     // filter good dogs with the button at the top of the page
+//     //✅ filter good dogs with the button at the top of the page
 
 
 
